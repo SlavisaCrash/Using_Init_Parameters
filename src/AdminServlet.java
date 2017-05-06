@@ -16,6 +16,7 @@ public class AdminServlet extends HttpServlet {
 
     }
 
+    //This is comment
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
         PrintWriter out = response.getWriter();
